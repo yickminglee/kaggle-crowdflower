@@ -1,0 +1,15 @@
+  
+.DS_store
+*.pyc
+*.ipynb_checkpoints*
+*.csv
+*.pkl
+*.gz
+*.txt
+*.paths
+*.ssh
+spark-warehouse/
+json_out/
+*.xlsx
+.vscode/
+processed/
